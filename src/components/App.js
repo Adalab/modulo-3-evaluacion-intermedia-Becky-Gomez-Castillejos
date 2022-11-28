@@ -66,7 +66,7 @@ function App() {
                 </tr>
             </thead>
 
-            <tbody>{htmlData(adalabers)}</tbody>
+            <tbody>{htmlData}</tbody>
           </table>
 
         </section>
