@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.854010dd.css","mappings":"AAAA,KACE,iBAAkB,CAClB,UACE,aAAe","sources":["style/App.scss"],"sourcesContent":[".App {\n  text-align: center;\n  &-logo {\n    height : 40vmin;\n    \n  }\n}\n\n\n"],"names":[],"sourceRoot":""}
